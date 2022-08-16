@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "wseuig",
+      "lastName": "uig",
+      "email": "gi",
+      "mobileNum": "uggui",
+      "salary": "123"
+    },
+    {
+      "id": 2,
+      "firstName": "eiu",
+      "lastName": "y",
+      "email": "gyu",
+      "mobileNum": "gyu",
+      "salary": "gyug"
+    },
+    {
+      "id": 3,
+      "firstName": "we",
+      "lastName": "i",
+      "email": "yf",
+      "mobileNum": "fy",
+      "salary": "12222"
+    },
+    {
+      "id": 4,
+      "firstName": "qeyiy",
+      "lastName": "y",
+      "email": "yu",
+      "mobileNum": "yweugq",
+      "salary": "gy"
+    },
+    {
+      "id": 5,
+      "firstName": "weiug",
+      "lastName": "ugi",
+      "email": "gu",
+      "mobileNum": "gui",
+      "salary": "uggu"
+    },
+    {
+      "id": 7,
+      "firstName": "ei",
+      "lastName": "ugi",
+      "email": "ggu",
+      "mobileNum": "gugiu",
+      "salary": "u"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
